@@ -1,0 +1,11 @@
+{
+  "name": "01-simple-api",
+  "version": "1.0.0",
+  "description": "simple api using node.js",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Khaled Md Saifullah",
+  "license": "ISC"
+}
